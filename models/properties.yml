@@ -1,0 +1,8 @@
+# set source if u dont want to select the database each time you run a query !
+sources:
+  - name: "my_source"
+    database: DB_ECOMM
+    schema: SC_ECOMM
+    tables:
+      - name: USERS
+  
