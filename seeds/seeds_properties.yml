@@ -3,4 +3,4 @@ seeds:
     config:
       full_refresh: true
       column_types:
-        ID: varchar(5) 
+        ID: VARCHAR
